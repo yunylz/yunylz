@@ -16,6 +16,6 @@
 
 ###
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018ef973-e35e-4cdb-bae5-c4b913d8853e/acee61ec-41a9-4203-82f5-96eeb9e1d454.png" /></a>
-
-###
+<div align="center">
+<a href="https://wakatime.com"><img width="700"  src="https://wakatime.com/share/@018ef973-e35e-4cdb-bae5-c4b913d8853e/acee61ec-41a9-4203-82f5-96eeb9e1d454.png" /></a>
+</div>
