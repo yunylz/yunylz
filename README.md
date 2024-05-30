@@ -6,12 +6,6 @@
 
 ###
 
-<h2 align="center">Projects</h2>
-
-<a href="https://github.com/dancepartyteam/wii-dance"> Wii-Dance </a>
-
-###
-
 <h2 align="center">I code & use</h2>
 
 ###
