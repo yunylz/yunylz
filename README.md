@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Over the past 6 years, I've honed my expertise in REST API and DevOps development, alongside delving into security research.</p>
+<p align="center">Over the past 8 years, I've honed my expertise in REST API and DevOps development, alongside delving into security research.</p>
 
 ###
 
